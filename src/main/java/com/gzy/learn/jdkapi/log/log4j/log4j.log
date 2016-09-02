@@ -1,0 +1,7 @@
+[2016-09-02 14:47:16]-[main-DEBUG]-[com.gzy.learn.jdkapi.log.log4j.TestLog4j-main(33)]： debug
+    [2016-09-02 14:47:16]-[main- INFO]-[com.gzy.learn.jdkapi.log.log4j.TestLog4j-main(34)]： info
+    [2016-09-02 14:47:16]-[main- WARN]-[com.gzy.learn.jdkapi.log.log4j.TestLog4j-main(35)]： warn
+    [2016-09-02 14:47:16]-[main-ERROR]-[com.gzy.learn.jdkapi.log.log4j.TestLog4j-main(36)]： error
+    [2016-09-02 14:47:16]-[main-FATAL]-[com.gzy.learn.jdkapi.log.log4j.TestLog4j-main(37)]： fatal
+    [2016-09-02 14:47:16]-[main-DEBUG]-[com.gzy.learn.jdkapi.log.log4j.TestLog4j-main(40)]： 调试信息
+    
